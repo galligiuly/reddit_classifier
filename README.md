@@ -47,11 +47,11 @@ I explored my data, analyzing number of wrintng authors and number of comments c
 
 # Project organization
 
-| Folder           | Description                                                |
-| :--------------- | ---------------------------------------------------------- |
-| [01_inspection]  | Process applied to find the subreddit's target for my job. |
-| [02_cleaning]    | Data clieaning and pre-processing                          |
-| [03_final_model] | LSTM final model implementation                            |
+| Folder                                                       | Description                                                |
+| :----------------------------------------------------------- | ---------------------------------------------------------- |
+| [01_inspection](https://github.com/galligiuly/reddit_classifier/tree/master/01_inspection) | Process applied to find the subreddit's target for my job. |
+| [02_cleaning](https://github.com/galligiuly/reddit_classifier/tree/master/02_cleaning) | Data clieaning and pre-processing                          |
+| [03_final_model]                                             | LSTM final model implementation                            |
 
 #### 
 
@@ -139,4 +139,4 @@ After adding it to your path, you will need to run `jupyter notebook` from a she
 
 ### Testing the project
 
-If you just want to test the project, you can execute [the testing notebook](https://github.com/galligiuly/TFM-Which-subreddit-best-fits-my-post/blob/master/06_contingency_plan/project_testing.ipynb) which is already prepared to run with the best performing model.
+If you just want to test the project, you can execute [the testing notebook] which is already prepared to run with the best performing model.
