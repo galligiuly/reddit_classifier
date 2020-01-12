@@ -59,7 +59,7 @@ I explored my data, analyzing number of wrintng authors and number of comments c
 | :----------------------------------------------------------- | ---------------------------------------------------------- |
 | [01_inspection](https://github.com/galligiuly/reddit_classifier/tree/master/01_inspection) | Process applied to find the subreddit's target for my job. |
 | [02_cleaning](https://github.com/galligiuly/reddit_classifier/tree/master/02_cleaning) | Data clieaning and pre-processing                          |
-| [03_final_model]                                             | LSTM final model implementation                            |
+| [03_final_model](https://github.com/galligiuly/reddit_classifier/tree/master/03_final_model) | LSTM final model implementation                            |
 
 #### 
 
