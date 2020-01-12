@@ -19,7 +19,15 @@ _Multy-Class Classification problem_
 
 ## Project Presentation
 
+Original Idea
+
 https://slides.com/galligiuly/galligiuly/live?context=editing#/
+
+
+
+Final results
+
+https://slides.com/galligiuly/tfm-recommendation-of-subreddit-for-blogs-results/live?context=editing#/
 
 
 
