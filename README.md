@@ -139,4 +139,4 @@ After adding it to your path, you will need to run `jupyter notebook` from a she
 
 ### Testing the project
 
-If you just want to test the project, you can execute [the testing notebook] which is already prepared to run with the best performing model.
+If you just want to test the project, you can execute [the testing notebook](https://github.com/galligiuly/reddit_classifier/blob/master/project_testing.ipynb) which is already prepared to run with the best performing model.
