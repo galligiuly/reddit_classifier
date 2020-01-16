@@ -2,7 +2,7 @@
 
 #### Preamble
 
-This work comes from a TFM project I've done for my Master of Data Science form Kschool Madrid. 
+This work comes from a TFM project I've done for my Master of Data Science from Kschool Madrid. 
 
 In this version I have omitted the didactic and descriptioning steps and I've applied, in a more efficient way, improvements that I've been discovering and studying during the development of the master's final job.
 
@@ -13,7 +13,7 @@ In this version I have omitted the didactic and descriptioning steps and I've ap
 The purpose of my project is to train an NLP model that could be able to suggest the fittest subreddit for bloggers who want publish in Reddit.
 Given a text from a post or a blog, my NLP model would suggest in which subreddit it could be published
 
-_Multy-Class Classification problem_
+_Multiclass Classification problem_
 
 
 
