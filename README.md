@@ -33,7 +33,7 @@ https://slides.com/galligiuly/tfm-recommendation-of-subreddit-for-blogs-results/
 
 ## Data
 
-The following [link](<https://console.cloud.google.com/bigquery?p=fh-bigquery%2F&project=reddit-254019&folder&organizationId>) refers to a collection of 1.7 billion comments uploaded to BigQuery and from where I started to analyze and query the data used for my work.
+The following [link](https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_comments?pli=1) refers to a collection of 1.7 billion comments uploaded to BigQuery and from where I started to analyze and query the data used for my work.
 
 #### reddit_comments
 
