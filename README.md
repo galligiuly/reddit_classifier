@@ -153,7 +153,7 @@ If you just want to test the project, you can execute [the testing notebook](htt
 
 # References
 
-[Kschool](https://kschool.com/)
-
 [My Linkedin](https://www.linkedin.com/in/giulia-galli-7669ba85/?locale=en_US)
+
+[Kschool](https://kschool.com/)
 
