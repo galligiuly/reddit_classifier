@@ -59,7 +59,7 @@ I explored my data, analyzing number of wrintng authors and number of comments c
 | :----------------------------------------------------------- | ---------------------------------------------------------- |
 | [01_inspection](https://github.com/galligiuly/reddit_classifier/tree/master/01_inspection) | Process applied to find the subreddit's target for my job. |
 | [02_cleaning](https://github.com/galligiuly/reddit_classifier/tree/master/02_cleaning) | Data clieaning and pre-processing                          |
-| [03_final_model](https://github.com/galligiuly/reddit_classifier/tree/master/03_final_model) | LSTM final model implementation                            |
+| [03_final_model](https://github.com/galligiuly/reddit_classifier/blob/master/03_final_model/06_reddit_LSTM_model_V2.ipynb) | LSTM final model implementation                            |
 
 #### 
 
@@ -147,4 +147,13 @@ After adding it to your path, you will need to run `jupyter notebook` from a she
 
 ### Testing the project
 
-If you just want to test the project, you can execute [the testing notebook](https://github.com/galligiuly/reddit_classifier/blob/master/project_testing.ipynb) which is already prepared to run with the best performing model.
+If you just want to test the project, you can execute [the testing notebook](https://github.com/galligiuly/reddit_classifier/blob/master/project_testing_V2.ipynb) which is already prepared to run with the best performing model.
+
+
+
+# References
+
+[Kschool](https://kschool.com/)
+
+[My Linkedin](https://www.linkedin.com/in/giulia-galli-7669ba85/?locale=en_US)
+
