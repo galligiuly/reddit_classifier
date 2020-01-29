@@ -21,13 +21,13 @@ _Multiclass Classification problem_
 
 Original Idea
 
-https://slides.com/galligiuly/galligiuly/live?context=editing#/
+https://slides.com/galligiuly/galligiuly/
 
 
 
 Final results
 
-https://slides.com/galligiuly/tfm-recommendation-of-subreddit-for-blogs-results/live?context=editing#/
+https://slides.com/galligiuly/tfm-recommendation-of-subreddit-for-blogs-results/
 
 
 
